@@ -13,6 +13,11 @@ public final class Constants {
      * Motor CAN id's.
      */
     public static final class Motors {
+        public static final int frontRightMotorID = 1;
+        public static final int backRightMotorID = 2;
+        public static final int frontLeftMotorID = 3;
+        public static final int backLeftMotorID = 4;
+
     }
 
     /**
